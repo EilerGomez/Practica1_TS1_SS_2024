@@ -2,6 +2,14 @@ DROP DATABASE IF EXISTS sistema_jugadores;
 
 CREATE DATABASE sistema_jugadores;
 USE sistema_jugadores;
+CREATE TABLE equipos(
+	id INT NOT NULL AUTO_INCREMENT,
+    nombre VARCHAR(50) NOT NULL,
+    direccion VARCHAR(80) NOT NULL,
+    division INT NOT NULL,
+    categoria CHAR NOT NULL,
+    PRIMARY KEY (id)
+);
 CREATE TABLE jugadores(
 	id INT NOT NULL AUTO_INCREMENT,
 	nombre VARCHAR(50) NOT NULL,
@@ -10,7 +18,12 @@ CREATE TABLE jugadores(
 	estatura DOUBLE NOT NULL,
 	direccion VARCHAR(80) NOT NULL,
 	tel INT NOT NULL,
-	PRIMARY KEY(id)
+    id_equipo INT NOT NULL,
+	PRIMARY KEY(id),
+    CONSTRAINT equipo_equipo_jugadores_fk 
+    FOREIGN KEY (id_equipo) REFERENCES equipos(id)
+    ON DELETE CASCADE
+    ON UPDATE CASCADE
 );
 
 CREATE TABLE arbitros(
@@ -21,14 +34,7 @@ CREATE TABLE arbitros(
     PRIMARY KEY(id)
 );
 
-CREATE TABLE equipos(
-	id INT NOT NULL AUTO_INCREMENT,
-    nombre VARCHAR(50) NOT NULL,
-    direccion VARCHAR(80) NOT NULL,
-    division INT NOT NULL,
-    categoria CHAR NOT NULL,
-    PRIMARY KEY (id)
-);
+
 
 CREATE TABLE torneos(
 	id INT NOT NULL AUTO_INCREMENT,
@@ -52,6 +58,8 @@ CREATE TABLE partidos (
     estadio VARCHAR(80) NOT NULL,
     estado VARCHAR(20) NOT NULL,
     fecha DATE,
+    temporada INT(4),
+    equipo_ganador INT(1),
     PRIMARY KEY (id),
     CONSTRAINT arbitro1_partido_fk
         FOREIGN KEY (arbitro1) REFERENCES arbitros(id)
@@ -104,7 +112,7 @@ CREATE TABLE eventos(
     ON UPDATE CASCADE
 );
 
-CREATE TABLE equipo_jugadores(
+/*CREATE TABLE equipo_jugadores(
 	id_jugador INT NOT NULL,
     id_equipo INT NOT NULL,
     fecha_fichaje DATE,
@@ -117,7 +125,7 @@ CREATE TABLE equipo_jugadores(
     FOREIGN KEY (id_equipo) REFERENCES equipos(id)
     ON DELETE CASCADE
     ON UPDATE CASCADE
-);
+);*/
 
 CREATE TABLE nominas(
 	id_partido INT NOT NULL AUTO_INCREMENT,
@@ -163,6 +171,22 @@ CREATE TABLE boletas_cambio(
     ON UPDATE CASCADE,
 	CONSTRAINT equipo_boleta_cambio_fk 
     FOREIGN KEY (id_equipo) REFERENCES equipos(id)
+    ON DELETE CASCADE
+    ON UPDATE CASCADE
+);
+
+CREATE TABLE puntos(
+	id INT NOT NULL AUTO_INCREMENT,
+    id_equipo INT NOT NULL,
+    id_partido INT NOT NULL,
+    puntos INT NOT NULL,
+    PRIMARY KEY(id),
+    CONSTRAINT puntos_id_equipo_fk
+    FOREIGN KEY (id_equipo) REFERENCES equipos(id)
+    ON DELETE CASCADE
+    ON UPDATE CASCADE,
+    CONSTRAINT puntos_id_partido_fk 
+    FOREIGN KEY (id_partido) REFERENCES partidos(id)
     ON DELETE CASCADE
     ON UPDATE CASCADE
 );
