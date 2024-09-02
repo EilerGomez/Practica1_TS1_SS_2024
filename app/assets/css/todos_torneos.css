@@ -92,6 +92,10 @@ body {
     background-color: #dc3545;
     border: none;
 }
+.btn-details {
+    background-color: #d5e403;
+    border: none;
+}
 
 .btn-add {
     background-color: #64dc35;

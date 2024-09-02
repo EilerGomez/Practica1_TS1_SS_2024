@@ -30,7 +30,7 @@ CREATE TABLE arbitros(
 	id INT NOT NULL AUTO_INCREMENT,
     nombre VARCHAR(50) NOT NULL,
     direccion VARCHAR(80) NOT NULL,
-    telefono INT NOT NULL,
+    telefono INT(15) NOT NULL,
     PRIMARY KEY(id)
 );
 

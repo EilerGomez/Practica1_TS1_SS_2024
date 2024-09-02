@@ -1,0 +1,81 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+
+
+h1 {
+    margin: 0;
+}
+
+.match-details {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.match-info {
+    width: 60%;
+}
+
+.match-info h2 {
+    border-bottom: 2px solid #4CAF50;
+    padding-bottom: 10px;
+}
+
+.match-info p {
+    margin: 10px 0;
+    font-size: 16px;
+}
+
+.images {
+    width: 35%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.images img {
+    width: 100%;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.stadium-image {
+    max-height: 150 px;
+}
+
+.team-image {
+    max-height: 200px;
+}
+
+.image-logo {
+    align-items: center; 
+     
+}
+.logo-image {
+    max-height: 200px;
+}

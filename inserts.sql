@@ -501,4 +501,15 @@ INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) V
 INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Abdelilah Hafidi', 29, 75.0, 1.78, 'Casablanca, Marruecos', 977111231, 64);
 INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Ismail El Haddad', 31, 76.0, 1.81, 'Casablanca, Marruecos', 977111232, 64);
 
+-- INGRESANDO ARBITROS
+INSERT INTO arbitros (nombre, direccion, telefono) VALUES ('Pierluigi Collina', 'Via Roma, Milan, Italia', 12345678);
+INSERT INTO arbitros (nombre, direccion, telefono) VALUES ('Howard Webb', 'Bramley, Rotherham, Inglaterra', 87654321);
+INSERT INTO arbitros (nombre, direccion, telefono) VALUES ('Bjorn Kuipers', 'Oldenzaal, Overijssel, Países Bajos', 23456789);
+INSERT INTO arbitros (nombre, direccion, telefono) VALUES ('Mark Clattenburg', 'Consett, Durham, Inglaterra', 34567812);
+INSERT INTO arbitros (nombre, direccion, telefono) VALUES ('Felix Brych', 'Munich, Baviera, Alemania', 45678123);
+INSERT INTO arbitros (nombre, direccion, telefono) VALUES ('Nestor Pitana', 'Posadas, Misiones, Argentina', 56781234);
+INSERT INTO arbitros (nombre, direccion, telefono) VALUES ('Cüneyt Çakır', 'Estambul, Turquía', 67812345);
+INSERT INTO arbitros (nombre, direccion, telefono) VALUES ('Wilmar Roldán', 'Remedios, Antioquia, Colombia', 78123456);
+INSERT INTO arbitros (nombre, direccion, telefono) VALUES ('Daniele Orsato', 'Vicenza, Véneto, Italia', 81234567);
+INSERT INTO arbitros (nombre, direccion, telefono) VALUES ('Damir Skomina', 'Koper, Eslovenia', 23456781);
 
