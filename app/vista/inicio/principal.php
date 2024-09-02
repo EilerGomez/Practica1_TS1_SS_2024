@@ -52,6 +52,12 @@
                 <p><strong>Ubicación:</strong> Inglaterra</p>
                 <p><strong>Duración:</strong> Desde agosto hasta mayo.</p>
             </div>
+            <div class="video-container">
+                <video width="560" height="315" controls>
+                    <source src="assets/images/NEW Premier League 2021_22 Matchday Intro.mp4" type="video/mp4">
+                    Tu navegador no soporta el elemento de video.
+                </video>
+            </div>
         </div>
 
         <div class="torneo-card">
@@ -63,6 +69,12 @@
                 <p><strong>Formato:</strong> Competencia de ida y vuelta donde los equipos juegan todos contra todos.</p>
                 <p><strong>Ubicación:</strong> Italia</p>
                 <p><strong>Duración:</strong> Desde agosto hasta mayo.</p>
+            </div>
+            <div class="video-container">
+                <video width="560" height="315" controls>
+                    <source src="assets/images/SerieA24 Intro.mp4" type="video/mp4">
+                    Tu navegador no soporta el elemento de video.
+                </video>
             </div>
         </div>
 
@@ -77,6 +89,12 @@
                 <p><strong>Ubicación:</strong> Alemania</p>
                 <p><strong>Duración:</strong> Desde agosto hasta mayo.</p>
             </div>
+            <div class="video-container">
+                <video width="560" height="315" controls>
+                    <source src="assets/images/Bundesliga Promotional Trailer.mp4" type="video/mp4">
+                    Tu navegador no soporta el elemento de video.
+                </video>
+            </div>
         </div>
 
 
@@ -90,6 +108,12 @@
                 <p><strong>Ubicación:</strong> Francia</p>
                 <p><strong>Duración:</strong> Desde agosto hasta mayo.</p>
             </div>
+            <div class="video-container">
+                <video width="560" height="315" controls>
+                    <source src="assets/images/League1.mp4" type="video/mp4">
+                    Tu navegador no soporta el elemento de video.
+                </video>
+            </div>
         </div>
 
         <div class="torneo-card">
@@ -101,6 +125,13 @@
                 <p><strong>Formato:</strong> Eliminatorias directas desde los dieciseisavos hasta la final.</p>
                 <p><strong>Ubicación:</strong> Italia</p>
                 <p><strong>Duración:</strong> Desde agosto hasta mayo.</p>
+            </div><br><br><br>
+            <div class="video-container">
+                <br><br>
+                <video width="560" height="315" controls>
+                    <source src="assets/images/CoppaItaliana.mp4" type="video/mp4">
+                    Tu navegador no soporta el elemento de video.
+                </video>
             </div>
         </div>
 
@@ -115,8 +146,14 @@
                 <p><strong>Ubicación:</strong> Inglaterra</p>
                 <p><strong>Duración:</strong> Desde agosto hasta mayo.</p>
             </div>
+            <div class="video-container">
+                <video width="560" height="315" controls>
+                    <source src="assets/images/FACup.mp4" type="video/mp4">
+                    Tu navegador no soporta el elemento de video.
+                </video>
+            </div>
         </div>
-        <!-- Copa del Rey -->
+
         <div class="torneo-card">
             <img src="assets/images/Copa del Rey.jpg" alt="Logo Copa del Rey" class="torneo-logo">
             <div class="torneo-info">
@@ -126,6 +163,12 @@
                 <p><strong>Formato:</strong> Eliminatorias directas desde la primera ronda hasta la final.</p>
                 <p><strong>Ubicación:</strong> España</p>
                 <p><strong>Duración:</strong> Desde septiembre hasta abril.</p>
+            </div>
+            <div class="video-container">
+                <video width="560" height="315" controls>
+                    <source src="assets/images/CopaDelRey.mp4" type="video/mp4">
+                    Tu navegador no soporta el elemento de video.
+                </video>
             </div>
         </div>
 
@@ -140,6 +183,12 @@
                 <p><strong>Ubicación:</strong> Sudamérica</p>
                 <p><strong>Duración:</strong> De marzo a noviembre.</p>
             </div>
+            <div class="video-container">
+                <video width="560" height="315" controls>
+                    <source src="assets/images/Libertadores.mp4" type="video/mp4">
+                    Tu navegador no soporta el elemento de video.
+                </video>
+            </div>
         </div>
 
         <!-- Copa Sudamericana -->
@@ -152,6 +201,12 @@
                 <p><strong>Formato:</strong> Fase de grupos seguida de eliminatorias directas hasta la final.</p>
                 <p><strong>Ubicación:</strong> Sudamérica</p>
                 <p><strong>Duración:</strong> De marzo a diciembre.</p>
+            </div>
+            <div class="video-container"><br>
+                <video width="560" height="315" controls>
+                    <source src="assets/images/CopaSudamericana.mp4" type="video/mp4">
+                    Tu navegador no soporta el elemento de video.
+                </video>
             </div>
         </div>
 
@@ -166,6 +221,12 @@
                 <p><strong>Ubicación:</strong> Global</p>
                 <p><strong>Duración:</strong> De diciembre a diciembre.</p>
             </div>
+            <div class="video-container"><br>
+                <video width="560" height="315" controls>
+                    <source src="assets/images/Intro FIFA Club World Cup 2022.mp4" type="video/mp4">
+                    Tu navegador no soporta el elemento de video.
+                </video>
+            </div>
         </div>
 
         <!-- Concachampions -->
@@ -178,6 +239,12 @@
                 <p><strong>Formato:</strong> Fase de grupos seguida de eliminatorias directas hasta la final.</p>
                 <p><strong>Ubicación:</strong> Norteamérica</p>
                 <p><strong>Duración:</strong> De febrero a mayo.</p>
+            </div>
+            <div class="video-container"><br><br><br>
+                <video width="560" height="315" controls>
+                    <source src="assets/images/Concacaf Champions Cup.mp4" type="video/mp4">
+                    Tu navegador no soporta el elemento de video.
+                </video>
             </div>
         </div>
 
@@ -192,6 +259,12 @@
                 <p><strong>Ubicación:</strong> África</p>
                 <p><strong>Duración:</strong> De febrero a noviembre.</p>
             </div>
+            <div class="video-container"><br>
+                <video width="560" height="315" controls>
+                    <source src="assets/images/CAF - Champions League _ TV Opening + Stadium Info.mp4" type="video/mp4">
+                    Tu navegador no soporta el elemento de video.
+                </video>
+            </div>
         </div>
 
         <!-- AFC Champions League -->
@@ -205,9 +278,13 @@
                 <p><strong>Ubicación:</strong> Asia</p>
                 <p><strong>Duración:</strong> De febrero a noviembre.</p>
             </div>
+            <div class="video-container"><br><br><br>
+                <video width="560" height="315" controls>
+                    <source src="assets/images/AFCChampionsLeague.mp4" type="video/mp4">
+                    Tu navegador no soporta el elemento de video.
+                </video>
+            </div>
         </div>
-
-        
 
 
     </div>
