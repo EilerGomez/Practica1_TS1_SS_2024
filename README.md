@@ -7,6 +7,8 @@
 #
 #
 #   Pega la carpeta del proyecto en la carpeta htdocs
-#   de la carpeta donde esta instalado xampp o lampp y ejecuta
+#   de la carpeta donde esta instalado xampp o lampp
+
 #   levanta apache y xampp
-#   el comando localhost/nombre_carpeta_proyecto
+
+#   Ejecuta el comando localhost/nombre_carpeta_proyecto en tu navegador
