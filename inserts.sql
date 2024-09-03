@@ -501,7 +501,7 @@ INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) V
 INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Abdelilah Hafidi', 29, 75.0, 1.78, 'Casablanca, Marruecos', 977111231, 64);
 INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Ismail El Haddad', 31, 76.0, 1.81, 'Casablanca, Marruecos', 977111232, 64);
 
--- -----------------------------------------------------------------------------------------
+
 -- real betis
 INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Claudio Bravo', 38, 84.0, 1.84, 'Sevilla, España', 666222111, 6);
 INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Héctor Bellerín', 26, 74.0, 1.78, 'Sevilla, España', 666222112, 6);
