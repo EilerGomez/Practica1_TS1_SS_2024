@@ -501,6 +501,154 @@ INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) V
 INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Abdelilah Hafidi', 29, 75.0, 1.78, 'Casablanca, Marruecos', 977111231, 64);
 INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Ismail El Haddad', 31, 76.0, 1.81, 'Casablanca, Marruecos', 977111232, 64);
 
+-- -----------------------------------------------------------------------------------------
+-- real betis
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Claudio Bravo', 38, 84.0, 1.84, 'Sevilla, España', 666222111, 6);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Héctor Bellerín', 26, 74.0, 1.78, 'Sevilla, España', 666222112, 6);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Marc Bartra', 30, 77.0, 1.84, 'Sevilla, España', 666222113, 6);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Germán Pezzella', 30, 82.0, 1.85, 'Sevilla, España', 666222114, 6);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Álex Moreno', 28, 72.0, 1.75, 'Sevilla, España', 666222115, 6);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('William Carvalho', 29, 79.0, 1.87, 'Sevilla, España', 666222116, 6);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Nabil Fekir', 28, 72.0, 1.73, 'Sevilla, España', 666222117, 6);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Sergio Canales', 30, 70.0, 1.80, 'Sevilla, España', 666222118, 6);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Guido Rodríguez', 27, 80.0, 1.85, 'Sevilla, España', 666222119, 6);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Juanmi', 28, 72.0, 1.72, 'Sevilla, España', 666222120, 6);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Borja Iglesias', 28, 86.0, 1.87, 'Sevilla, España', 666222121, 6);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Cristian Tello', 30, 71.0, 1.78, 'Sevilla, España', 666222122, 6);
+
+-- villa real
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Gerónimo Rulli', 29, 80.0, 1.89, 'Villarreal, España', 666333111, 7);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Juan Foyth', 24, 78.0, 1.87, 'Villarreal, España', 666333112, 7);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Pau Torres', 25, 80.0, 1.91, 'Villarreal, España', 666333113, 7);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Alberto Moreno', 29, 70.0, 1.71, 'Villarreal, España', 666333114, 7);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Raúl Albiol', 36, 82.0, 1.90, 'Villarreal, España', 666333115, 7);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Étienne Capoue', 33, 85.0, 1.90, 'Villarreal, España', 666333116, 7);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Dani Parejo', 32, 74.0, 1.82, 'Villarreal, España', 666333117, 7);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Manu Trigueros', 30, 70.0, 1.78, 'Villarreal, España', 666333118, 7);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Gerard Moreno', 29, 77.0, 1.80, 'Villarreal, España', 666333119, 7);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Yeremi Pino', 19, 65.0, 1.72, 'Villarreal, España', 666333120, 7);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Arnaut Danjuma', 24, 74.0, 1.78, 'Villarreal, España', 666333121, 7);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Boulaye Dia', 25, 78.0, 1.80, 'Villarreal, España', 666333122, 7);
+
+
+-- atletic club
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Unai Simón', 24, 88.0, 1.90, 'Bilbao, España', 666444111, 8);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Iñigo Martínez', 30, 77.0, 1.82, 'Bilbao, España', 666444112, 8);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Yeray Álvarez', 26, 75.0, 1.83, 'Bilbao, España', 666444113, 8);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Óscar de Marcos', 32, 71.0, 1.82, 'Bilbao, España', 666444114, 8);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Mikel Balenziaga', 33, 72.0, 1.77, 'Bilbao, España', 666444115, 8);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Dani García', 31, 74.0, 1.78, 'Bilbao, España', 666444116, 8);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Unai Vencedor', 21, 69.0, 1.76, 'Bilbao, España', 666444117, 8);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Iker Muniain', 28, 65.0, 1.70, 'Bilbao, España', 666444118, 8);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Raúl García', 35, 83.0, 1.83, 'Bilbao, España', 666444119, 8);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Iñaki Williams', 27, 79.0, 1.86, 'Bilbao, España', 666444120, 8);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Alex Berenguer', 25, 68.0, 1.75, 'Bilbao, España', 666444121, 8);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Oihan Sancet', 21, 72.0, 1.88, 'Bilbao, España', 666444122, 8);
+ 
+-- real sociedad
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Álex Remiro', 26, 82.0, 1.92, 'San Sebastián, España', 666555111, 9);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Aritz Elustondo', 27, 78.0, 1.80, 'San Sebastián, España', 666555112, 9);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Robin Le Normand', 25, 82.0, 1.87, 'San Sebastián, España', 666555113, 9);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Nacho Monreal', 35, 72.0, 1.79, 'San Sebastián, España', 666555114, 9);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Andoni Gorosabel', 25, 70.0, 1.78, 'San Sebastián, España', 666555115, 9);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Mikel Merino', 25, 81.0, 1.88, 'San Sebastián, España', 666555116, 9);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('David Silva', 35, 67.0, 1.70, 'San Sebastián, España', 666555117, 9);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Igor Zubeldia', 24, 73.0, 1.81, 'San Sebastián, España', 666555118, 9);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Portu', 29, 68.0, 1.67, 'San Sebastián, España', 666555119, 9);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Mikel Oyarzabal', 24, 78.0, 1.81, 'San Sebastián, España', 666555120, 9);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Alexander Isak', 22, 77.0, 1.92, 'San Sebastián, España', 666555121, 9);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Adnan Januzaj', 26, 72.0, 1.86, 'San Sebastián, España', 666555122, 9);
+
+-- celta de vigo
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Matías Dituro', 34, 84.0, 1.91, 'Vigo, España', 666666111, 10);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Hugo Mallo', 30, 72.0, 1.73, 'Vigo, España', 666666112, 10);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Jeison Murillo', 29, 79.0, 1.84, 'Vigo, España', 666666113, 10);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Néstor Araújo', 29, 82.0, 1.88, 'Vigo, España', 666666114, 10);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Javi Galán', 26, 70.0, 1.72, 'Vigo, España', 666666115, 10);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Renato Tapia', 26, 78.0, 1.85, 'Vigo, España', 666666116, 10);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Fran Beltrán', 22, 66.0, 1.70, 'Vigo, España', 666666117, 10);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Denis Suárez', 27, 69.0, 1.76, 'Vigo, España', 666666118, 10);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Brais Méndez', 24, 75.0, 1.87, 'Vigo, España', 666666119, 10);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Iago Aspas', 34, 67.0, 1.76, 'Vigo, España', 666666120, 10);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Santi Mina', 26, 71.0, 1.81, 'Vigo, España', 666666121, 10);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Nolito', 34, 70.0, 1.75, 'Vigo, España', 666666122, 10);
+
+-- espanyol 
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Diego López', 39, 86.0, 1.96, 'Barcelona, España', 666777111, 11);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Adrià Pedrosa', 23, 65.0, 1.76, 'Barcelona, España', 666777112, 11);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Sergi Gómez', 29, 78.0, 1.85, 'Barcelona, España', 666777113, 11);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Leandro Cabrera', 30, 86.0, 1.90, 'Barcelona, España', 666777114, 11);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Óscar Gil', 24, 70.0, 1.74, 'Barcelona, España', 666777115, 11);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Keidi Bare', 24, 74.0, 1.74, 'Barcelona, España', 666777116, 11);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Sergi Darder', 27, 71.0, 1.80, 'Barcelona, España', 666777117, 11);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Manu Morlanes', 22, 73.0, 1.78, 'Barcelona, España', 666777118, 11);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Adri Embarba', 29, 72.0, 1.73, 'Barcelona, España', 666777119, 11);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Raúl de Tomás', 27, 75.0, 1.80, 'Barcelona, España', 666777120, 11);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Javi Puado', 23, 70.0, 1.77, 'Barcelona, España', 666777121, 11);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Wu Lei', 29, 66.0, 1.74, 'Barcelona, España', 666777122, 11);
+
+
+-- getafe
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('David Soria', 28, 86.0, 1.92, 'Getafe, España', 666888111, 12);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Damián Suárez', 33, 72.0, 1.73, 'Getafe, España', 666888112, 12);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Jorge Cuenca', 21, 80.0, 1.90, 'Getafe, España', 666888113, 12);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Stefan Mitrović', 31, 81.0, 1.89, 'Getafe, España', 666888114, 12);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Mathías Olivera', 23, 77.0, 1.85, 'Getafe, España', 666888115, 12);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Mauro Arambarri', 25, 77.0, 1.75, 'Getafe, España', 666888116, 12);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Nemanja Maksimović', 26, 74.0, 1.89, 'Getafe, España', 666888117, 12);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Carles Aleñá', 23, 73.0, 1.80, 'Getafe, España', 666888118, 12);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Jakub Jankto', 25, 75.0, 1.84, 'Getafe, España', 666888119, 12);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Enes Ünal', 24, 78.0, 1.85, 'Getafe, España', 666888120, 12);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Jaime Mata', 32, 75.0, 1.85, 'Getafe, España', 666888121, 12);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Sandro Ramírez', 26, 72.0, 1.75, 'Getafe, España', 666888122, 12);
+
+-- granada
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Luis Maximiano', 22, 84.0, 1.90, 'Granada, España', 666999111, 13);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Quini', 31, 74.0, 1.77, 'Granada, España', 666999112, 13);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Germán Sánchez', 34, 78.0, 1.88, 'Granada, España', 666999113, 13);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Domingos Duarte', 26, 80.0, 1.92, 'Granada, España', 666999114, 13);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Carlos Neva', 25, 69.0, 1.76, 'Granada, España', 666999115, 13);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Maxime Gonalons', 32, 76.0, 1.87, 'Granada, España', 666999116, 13);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Luis Milla', 26, 70.0, 1.75, 'Granada, España', 666999117, 13);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Ángel Montoro', 33, 73.0, 1.81, 'Granada, España', 666999118, 13);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Antonio Puertas', 29, 72.0, 1.83, 'Granada, España', 666999119, 13);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Jorge Molina', 39, 80.0, 1.88, 'Granada, España', 666999120, 13);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Darwin Machís', 28, 72.0, 1.72, 'Granada, España', 666999121, 13);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Luis Suárez', 23, 85.0, 1.85, 'Granada, España', 666999122, 13);
+
+
+-- osasuna
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Sergio Herrera', 28, 85.0, 1.92, 'Pamplona, España', 667000111, 14);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Nacho Vidal', 26, 70.0, 1.78, 'Pamplona, España', 667000112, 14);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('David García', 27, 82.0, 1.85, 'Pamplona, España', 667000113, 14);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Aridane Hernández', 32, 85.0, 1.88, 'Pamplona, España', 667000114, 14);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Juan Cruz', 28, 70.0, 1.80, 'Pamplona, España', 667000115, 14);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Lucas Torró', 27, 78.0, 1.90, 'Pamplona, España', 667000116, 14);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Jon Moncayola', 23, 75.0, 1.84, 'Pamplona, España', 667000117, 14);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Darko Brašanac', 29, 74.0, 1.78, 'Pamplona, España', 667000118, 14);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Kike Barja', 24, 68.0, 1.76, 'Pamplona, España', 667000119, 14);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Chimy Ávila', 27, 72.0, 1.72, 'Pamplona, España', 667000120, 14);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Roberto Torres', 32, 75.0, 1.78, 'Pamplona, España', 667000121, 14);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Ante Budimir', 30, 74.0, 1.90, 'Pamplona, España', 667000122, 14);
+
+-- mallorca
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Manolo Reina', 36, 85.0, 1.85, 'Palma de Mallorca, España', 667111111, 15);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Pablo Maffeo', 24, 68.0, 1.72, 'Palma de Mallorca, España', 667111112, 15);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Martin Valjent', 26, 80.0, 1.87, 'Palma de Mallorca, España', 667111113, 15);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Brian Oliván', 27, 71.0, 1.76, 'Palma de Mallorca, España', 667111114, 15);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Jaume Costa', 33, 70.0, 1.71, 'Palma de Mallorca, España', 667111115, 15);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Iddrisu Baba', 25, 72.0, 1.82, 'Palma de Mallorca, España', 667111116, 15);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Salva Sevilla', 37, 75.0, 1.78, 'Palma de Mallorca, España', 667111117, 15);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Kang-In Lee', 20, 66.0, 1.73, 'Palma de Mallorca, España', 667111118, 15);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Takefusa Kubo', 20, 67.0, 1.73, 'Palma de Mallorca, España', 667111119, 15);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Dani Rodríguez', 33, 70.0, 1.80, 'Palma de Mallorca, España', 667111120, 15);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Ángel Rodríguez', 34, 68.0, 1.72, 'Palma de Mallorca, España', 667111121, 15);
+INSERT INTO jugadores(nombre, edad, peso, estatura, direccion, tel, id_equipo) VALUES ('Abdón Prats', 29, 75.0, 1.82, 'Palma de Mallorca, España', 667111122, 15);
+
+
+
+
+-- -------------------------------------------------------------------------------------------
 -- INGRESANDO ARBITROS
 INSERT INTO arbitros (nombre, direccion, telefono) VALUES ('Pierluigi Collina', 'Via Roma, Milan, Italia', 12345678);
 INSERT INTO arbitros (nombre, direccion, telefono) VALUES ('Howard Webb', 'Bramley, Rotherham, Inglaterra', 87654321);
