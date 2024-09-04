@@ -45,6 +45,7 @@
                             <th>Posicion</th>
                             <th>Equipo</th>
                             <th>Torneo</th>
+                            <th>Temporada</th>
                             <th>Puntos</th>
                         </tr>
                     </thead>
@@ -56,6 +57,7 @@
                                 <td><?= $index ?></td>
                                 <td><?= $t->equipo ?></td>
                                 <td><?= $t->torneo ?></td>
+                                <td><?= $t->temporada ?></td>
                                 <td><?= $t->puntos ?></td>
 
                             </tr>

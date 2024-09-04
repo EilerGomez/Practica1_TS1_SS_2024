@@ -20,7 +20,7 @@ class Puntos
     public function getPuntos($id_torneo, $temporada)
     {
         try {
-            $query = $this->pdo->prepare("SELECT  e.nombre as equipo,t.nombre as torneo, sum(p.puntos) as puntos from puntos p 
+            $query = $this->pdo->prepare("SELECT  e.nombre as equipo,t.nombre as torneo, sum(p.puntos) as puntos, pt.temporada as temporada from puntos p 
                     	left join equipos e on(p.id_equipo=e.id)
                         left join partidos pt on(pt.id=p.id_partido)
                         left join torneos t on (t.id=pt.id_torneo) where pt.id_torneo=? and pt.temporada=? group by (e.nombre) order by puntos desc;
