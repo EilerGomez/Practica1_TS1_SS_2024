@@ -8,9 +8,9 @@ html, body {
 body {
     display: flex;
     justify-content: center;
-    align-items: flex-start; /* Alinea el contenido al inicio del contenedor (parte superior) */
+    align-items: flex-start; 
     background-color: #f4f4f4;
-    padding-top: 50px; /* Agrega un margen superior de 50px */
+    padding-top: 50px; 
 }
 
 .container {
@@ -20,7 +20,7 @@ body {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     width: 100%;
     max-width: 600px;
-    box-sizing: border-box; /* Incluye el padding en el ancho total del contenedor */
+    box-sizing: border-box; 
 }
 
 h1 {

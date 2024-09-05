@@ -1,7 +1,6 @@
 <?php
 class basedatos
 {
-    // Constantes para los detalles de conexión a la base de datos
     const servidor = "127.0.0.1";
     const usuario = "user_practica1_TS1";
     const clave = "practica1";

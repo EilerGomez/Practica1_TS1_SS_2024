@@ -99,14 +99,13 @@ body {
 
 .btn-add {
     background-color: #64dc35;
-    margin-left: auto; /* Empuja el botón a la derecha */
+    margin-left: auto; 
     border: none;
-    padding: 5px 50px; /* Menos espacio arriba y abajo, más espacio a los lados */
-    color: white; /* Asegura que el texto sea visible */
-    cursor: pointer; /* Cambia el cursor a mano cuando se pasa por encima */
-    font-size: 20px; /* Ajusta el tamaño de la fuente si es necesario */
-    border-radius: 4px; /* Opcional: añade bordes redondeados al botón */
-    /* Opcional: añade una sombra para mejorar el diseño */
+    padding: 5px 50px;
+    color: white; 
+    cursor: pointer; 
+    font-size: 20px; 
+    border-radius: 4px; 
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 }
 
