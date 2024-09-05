@@ -1,7 +1,9 @@
 DROP DATABASE IF EXISTS sistema_jugadores;
 
 CREATE DATABASE sistema_jugadores;
+
 USE sistema_jugadores;
+
 CREATE TABLE equipos(
 	id INT NOT NULL AUTO_INCREMENT,
     nombre VARCHAR(50) NOT NULL,
@@ -190,4 +192,8 @@ CREATE TABLE puntos(
     ON DELETE CASCADE
     ON UPDATE CASCADE
 );
+
+CREATE USER 'user_practica1_TS1'@'localhost' IDENTIFIED BY 'practica1';
+GRANT SELECT, INSERT, UPDATE, DELETE ON sistema_jugadores.* TO 'user_practica1_TS1'@'localhost';
+
 

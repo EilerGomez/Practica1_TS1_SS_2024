@@ -1,14 +1,16 @@
 <?php
-class basedatos {
+class basedatos
+{
     // Constantes para los detalles de conexión a la base de datos
     const servidor = "127.0.0.1";
-    const usuario = "root";
-    const clave = "mysql";
+    const usuario = "user_practica1_TS1";
+    const clave = "practica1";
     const nameDB = "sistema_jugadores";
 
     private static $conexion = null;
 
-    public static function conectar() {
+    public static function conectar()
+    {
         if (self::$conexion === null) {
             try {
                 self::$conexion = new PDO(
